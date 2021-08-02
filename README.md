@@ -11,5 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Current Tech skills
 -Python(Django)
+
 -Basic HTML5
+
 -CSS3
