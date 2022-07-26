@@ -16,3 +16,5 @@ Current Tech skills
 -Basic HTML5
 
 -CSS3
+
+-ES6 Javascript
